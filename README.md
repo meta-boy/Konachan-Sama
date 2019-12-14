@@ -1,16 +1,25 @@
-# konachan_uwu
+# Konachan - Sama
 
-A new Flutter project.
+An app written in flutter to utilize the [Konachan API](https://konachan.com/)
+.
+It's purely for the purpose practice the concepts of flutter and follow the best conventions possible. It also serves as a sandbox to try out various good practices.
 
-## Getting Started
+<p align = "center" >
+<img src="screenshots/Screenshot_20191211-215359.png"
+     title="Konachan - sama 1" width='600'>
+</p>
+<p align = "center" >
+<img src="screenshots/Screenshot_20191211-215418.png" align="center"
+     title="Konachan - sama 2" width='600'>
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align = "center" >
+<img src="screenshots/Screenshot_20191211-215423.png" align="center"
+title="Konachan - sama 3" width='600'>
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### WARNING:
+    Compile at your own risk as the API also provides some explicit imagery.
+    I will not be held responsible for any kind of `bad` experience you may 
+    be presented with. PROCEED WITH CAUTION
