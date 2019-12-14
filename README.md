@@ -2,7 +2,7 @@
 
 An app written in flutter to utilize the [Konachan API](https://konachan.com/)
 .
-It's purely for the purpose practice the concepts of flutter and follow the best conventions possible. It also serves as a sandbox to try out various good practices.
+It's purely for the purpose to practice the concepts of flutter and follow the best conventions possible. It also serves as a sandbox for me to try out various good practices.
 
 <p align = "center" >
 <img src="screenshots/Screenshot_20191211-215359.png"
